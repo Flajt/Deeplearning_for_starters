@@ -1,2 +1,2 @@
 # Deeplearning_for_starters
-A guide for neuronal nets with python3 
+A guide for neuronal nets and machine learning with python3. 
