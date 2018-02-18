@@ -1,2 +1,7 @@
 https://de.wikipedia.org/wiki/Neuronales_Netz
 http://www.mathematik.uni-ulm.de/stochastik/lehre/ss07/seminar_sl/wallner.pdf
+https://www.brgdomath.com/psychologie/lernen-und-ged%C3%A4chtnis-tk-3/was-passiert-beim-lernen-im-gehirn/
+https://de.wikipedia.org/wiki/Neuronale_Plastizit%C3%A4t
+https://pdfs.semanticscholar.org/09cf/727949c915ae8fd8b0a2ead55bcafedc0a12.pdf
+https://ccrma.stanford.edu/~eberdahl/Projects/Vokalerkennung/NN_Doku.pdf
+http://eis.mdx.ac.uk/staffpages/rvb/teaching/BIS3226/hand11.pdf nice paper 
