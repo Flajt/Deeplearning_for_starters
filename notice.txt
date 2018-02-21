@@ -1,0 +1,50 @@
+convelution: multiply weights with a part (example 3x3 field of numbers from a 18x18 field of numbers)
+new matrix will be created
+these matrix will be used as input for the next layers and the process repeates
+
+(example for an image) a matrix contains the shape of the figure part we want to detect in numbers (let`s say an L)
+see here for our example:
+0|0|0|0|0|0|0|20|20|0|0|0|0|0|0|0|0|0|0|
+0|0|0|0|0|0|0|20|20|0|0|0|0|0|0|0|0|0|0|
+0|0|0|0|0|0|0|20|20|0|0|0|0|0|0|0|0|0|0|
+0|0|0|0|0|0|0|20|20|0|0|0|0|0|0|0|0|0|0|
+0|0|0|0|0|0|0|20|20|0|0|0|0|0|0|0|0|0|0|
+0|0|0|0|0|0|0|20|20|0|0|0|0|0|0|0|0|0|0|
+0|0|0|0|0|0|0|20|20|0|0|0|0|0|0|0|0|0|0|
+0|0|0|0|0|0|0|20|20|0|0|0|0|0|0|0|0|0|0|
+0|0|0|0|0|0|0|20|20|0|0|0|0|0|0|0|0|0|0|
+0|0|0|0|0|0|0|20|20|0|0|0|0|0|0|0|0|0|0|
+0|0|0|0|0|0|0|20|20|20|20|20|20|20|0|0|0|0|0|
+0|0|0|0|0|0|0|20|20|20|20|20|20|20|0|0|0|0|0|
+(each |symbole between these| is a row (spalte))
+and there you can see the 20s forming an L if we use this
+on another matrix that represents an T, the values in the middle (|) of the L the tree (hope you now what I mean)
+will be multiplied in a matrix operation but the (_) part of the L not (|_ see the L?) and the rest will not get bigger
+
+Pooling:
+max pooling is the most often used type of pooling
+searching the max value out of a given window to reduce the matrix size
+example (max pooling)
+...x|(1|2 )======>|xx|26| think that it goes 4 columns in each row to the left + these you can see
+...x|(4|26)=====> |xx|xx|
+...x|1|0
+...x|x|x
+...x|x|x
+...x|x|x
+
+Normalization:
+example the ReLu function to set down all negativ numbers to 0.
+
+Regularization:
+example Droput used to turn neurons on and of randomly so the network is forced
+to learn new path the data can flow. To prevent Overfitting(in this case I think is that the net is more then
+perfect trained on the data the it became but it can`t predict some "unclean"/not generalised data)
+So better generalsation is possible.
+
+propability conversion:
+example Softmax function. Input (example) some letters (see matrix for L) and get a propabiltie form it.
+Most often used with an function to find the highest number (in our case propability) example: the argmax function
+
+gradient descent:
+example(very popular) backpropagation compute error from the prediction value and the real value.
+Then use the partial derivative 

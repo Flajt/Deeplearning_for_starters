@@ -4,4 +4,5 @@ https://www.brgdomath.com/psychologie/lernen-und-ged%C3%A4chtnis-tk-3/was-passie
 https://de.wikipedia.org/wiki/Neuronale_Plastizit%C3%A4t
 https://pdfs.semanticscholar.org/09cf/727949c915ae8fd8b0a2ead55bcafedc0a12.pdf
 https://ccrma.stanford.edu/~eberdahl/Projects/Vokalerkennung/NN_Doku.pdf
-http://eis.mdx.ac.uk/staffpages/rvb/teaching/BIS3226/hand11.pdf nice paper 
+http://eis.mdx.ac.uk/staffpages/rvb/teaching/BIS3226/hand11.pdf nice paper cutting the pdf name away and there you can find more papers
+https://stats.stackexchange.com/questions/2213/whats-the-difference-between-feed-forward-and-recurrent-neural-networks

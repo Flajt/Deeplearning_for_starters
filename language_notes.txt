@@ -1,0 +1,7 @@
+convolution=combination; bei convelution werden 2 matrixen zusammen gerechnet/kombiniert
+weight=feature matrix=feature map=filter=kernel
+dense=dicht
+pooling=zusammenfassen, bündeln
+rows=Zeilen
+columns=Spalten
+partial derivative=ableitungsfunktion; ableiten; partielle Ableitung
