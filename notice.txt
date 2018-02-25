@@ -1,3 +1,5 @@
+Convelutional Neuronale Networks:
+
 convelution: multiply weights with a part (example 3x3 field of numbers from a 18x18 field of numbers)
 new matrix will be created
 these matrix will be used as input for the next layers and the process repeates
@@ -47,4 +49,22 @@ Most often used with an function to find the highest number (in our case propabi
 
 gradient descent:
 example(very popular) backpropagation compute error from the prediction value and the real value.
-Then use the partial derivative 
+Then use the partial derivative with respect our weights and this returns a gradient value, with this the weight values
+will be updated recurrsevly (rückwärts).
+
+
+when to use it:
+examples:
+image recognition/generation, robot learning, object detection, gasp learning
+when you have got spacial data that is 2 or 3D, (spacial means that the position of the data matters; like text or sound)
+
+-----------------------------------------------------------
+Notes(general):
+dense_layer=combining all learnings together; often used to get propability values (with a function like "softmax"); the dense layer compute the full weight matrix and the full weight matrix
+border mode=two usage modes: Full="should the filter move over the input (there he will find zeros for no input)"; valid="returns a smaller input because it only computes were the filter and the
+input overlap"
+
+Working on:
+Watch Sirajs Videos:
+Python for data science, Intro to tensorflow, Into to deeplearning, The Math of intelligence
+Read the book: http://www.deeplearningbook.org/

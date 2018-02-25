@@ -6,3 +6,8 @@ https://pdfs.semanticscholar.org/09cf/727949c915ae8fd8b0a2ead55bcafedc0a12.pdf
 https://ccrma.stanford.edu/~eberdahl/Projects/Vokalerkennung/NN_Doku.pdf
 http://eis.mdx.ac.uk/staffpages/rvb/teaching/BIS3226/hand11.pdf nice paper cutting the pdf name away and there you can find more papers
 https://stats.stackexchange.com/questions/2213/whats-the-difference-between-feed-forward-and-recurrent-neural-networks
+https://github.com/llSourcell/Convolutional_neural_network/blob/master/convolutional_network_tutorial.ipynb
+https://www.youtube.com/watch?v=FTr3n7uBIuE
+https://en.wikipedia.org/wiki/Recurrent_neural_network
+http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
+https://www.youtube.com/watch?v=9zhrxE5PQgY
