@@ -1,3 +1,5 @@
 https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.texample.net%2Fmedia%2Ftikz%2Fexamples%2FPNG%2Fneural-network.png&f=1
 http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png
 https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fleonardoaraujosantos.gitbooks.io%2Fartificial-inteligence%2Fcontent%2Fassets%2Fneuralnetworks.png&f=1
+https://s-media-cache-ak0.pinimg.com/originals/f5/5e/64/f55e6417a70ce0466af05218cac90609.jpg
+https://cs231n.github.io/assets/nn1/neural_net2.jpeg

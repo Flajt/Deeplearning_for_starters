@@ -11,3 +11,11 @@ https://www.youtube.com/watch?v=FTr3n7uBIuE
 https://en.wikipedia.org/wiki/Recurrent_neural_network
 http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
 https://www.youtube.com/watch?v=9zhrxE5PQgY
+https://www.quora.com/How-does-a-deconvolutional-neural-network-work
+https://www.slideshare.net/nmhkahn/deconvnet-decouplednet-transfernet-in-image-segmentation
+https://quizlet.com/152146730/neural-network-zoo-flash-cards/
+https://towardsdatascience.com/the-8-neural-network-architectures-machine-learning-researchers-need-to-learn-11a0c96d6073
+https://medium.com/technology-nineleaps/vectors-in-machine-learning-b8dbdae53aa0
+https://www.youtube.com/watch?v=HHUqhVzctQE
+https://www.youtube.com/watch?v=-7scQpJT7uo
+http://www.neuronalesnetz.de/verbindungen.html
