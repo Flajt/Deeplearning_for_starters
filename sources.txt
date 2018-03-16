@@ -19,3 +19,5 @@ https://medium.com/technology-nineleaps/vectors-in-machine-learning-b8dbdae53aa0
 https://www.youtube.com/watch?v=HHUqhVzctQE
 https://www.youtube.com/watch?v=-7scQpJT7uo
 http://www.neuronalesnetz.de/verbindungen.html
+https://www.quora.com/What-is-the-learning-rate-in-neural-networks nice example for learning rate
+https://stackoverflow.com/questions/34518656/how-to-interpret-loss-and-accuracy-for-a-machine-learning-model#34519264
