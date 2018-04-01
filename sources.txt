@@ -21,3 +21,9 @@ https://www.youtube.com/watch?v=-7scQpJT7uo
 http://www.neuronalesnetz.de/verbindungen.html
 https://www.quora.com/What-is-the-learning-rate-in-neural-networks nice example for learning rate
 https://stackoverflow.com/questions/34518656/how-to-interpret-loss-and-accuracy-for-a-machine-learning-model#34519264
+https://en.wikipedia.org/wiki/Overfitting
+https://www.youtube.com/watch?v=OVHc-7GYRo4
+https://stackoverflow.com/questions/2480650/role-of-bias-in-neural-networks
+https://www.quora.com/What-is-bias-in-artificial-neural-network?share=1
+https://stats.stackexchange.com/questions/185911/why-are-bias-nodes-used-in-neural-networks
+https://stackoverflow.com/questions/3985619/how-to-calculate-a-logistic-sigmoid-function-in-python

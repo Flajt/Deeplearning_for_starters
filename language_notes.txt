@@ -13,3 +13,4 @@ dense layer=fully connected layer=voll verbundene Schicht
 dot product=Punktprodukt; Skalarprodukt
 sequential=aufeinander folgende
 vanish=verflüchtigen, auflösen
+steepness=steilheit
