@@ -27,3 +27,13 @@ https://stackoverflow.com/questions/2480650/role-of-bias-in-neural-networks
 https://www.quora.com/What-is-bias-in-artificial-neural-network?share=1
 https://stats.stackexchange.com/questions/185911/why-are-bias-nodes-used-in-neural-networks
 https://stackoverflow.com/questions/3985619/how-to-calculate-a-logistic-sigmoid-function-in-python
+https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1
+https://page.mi.fu-berlin.de/rojas/neural/chapter/K4.pdf
+https://medium.com/technology-invention-and-more/everything-you-need-to-know-about-artificial-neural-networks-57fac18245a1 good starting point for Neuronal networks
+https://www.youtube.com/watch?v=ILsA4nyG7I0 # basic intro to deep neuronal networks and how they work with an example
+https://www.youtube.com/watch?v=IHZwWFHWa-w second part
+https://www.youtube.com/watch?v=Ilg3gGewQ5U third part
+https://www.youtube.com/watch?v=m0pIlLfpXWE nice video about activation functions
+
+special tools:
+https://www.matheretter.de/tools/formeleditor/

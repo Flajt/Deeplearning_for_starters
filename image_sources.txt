@@ -5,3 +5,4 @@ https://s-media-cache-ak0.pinimg.com/originals/f5/5e/64/f55e6417a70ce0466af05218
 https://cs231n.github.io/assets/nn1/neural_net2.jpeg
 https://sebastianraschka.com/images/blog/2014/kernel_pca/linear_vs_nonlinear.png
 http://ataspinar.com/wp-content/uploads/2016/11/perceptron_schematic_overview.png
+https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fb5%2FSigmoidFunction.png%2F400px-SigmoidFunction.png&f=1
