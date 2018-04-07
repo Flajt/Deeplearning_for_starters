@@ -34,6 +34,7 @@ https://www.youtube.com/watch?v=ILsA4nyG7I0 # basic intro to deep neuronal netwo
 https://www.youtube.com/watch?v=IHZwWFHWa-w second part
 https://www.youtube.com/watch?v=Ilg3gGewQ5U third part
 https://www.youtube.com/watch?v=m0pIlLfpXWE nice video about activation functions
-
+https://www.youtube.com/watch?v=q555kfIFUCM backpropagation in 5 min.
+https://stats.stackexchange.com/questions/179026/objective-function-cost-function-loss-function-are-they-the-same-thing what is a loss function, a objectiv function and a cost function
 special tools:
 https://www.matheretter.de/tools/formeleditor/
