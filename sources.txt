@@ -1,4 +1,4 @@
-https://de.wikipedia.org/wiki/Neuronales_Netz
+https://de.wikipedia.org/wiki/Neuronales_Netz wikipedia for general info
 http://www.mathematik.uni-ulm.de/stochastik/lehre/ss07/seminar_sl/wallner.pdf
 https://www.brgdomath.com/psychologie/lernen-und-ged%C3%A4chtnis-tk-3/was-passiert-beim-lernen-im-gehirn/
 https://de.wikipedia.org/wiki/Neuronale_Plastizit%C3%A4t
@@ -6,12 +6,12 @@ https://pdfs.semanticscholar.org/09cf/727949c915ae8fd8b0a2ead55bcafedc0a12.pdf
 https://ccrma.stanford.edu/~eberdahl/Projects/Vokalerkennung/NN_Doku.pdf
 http://eis.mdx.ac.uk/staffpages/rvb/teaching/BIS3226/hand11.pdf nice paper cutting the pdf name away and there you can find more papers
 https://stats.stackexchange.com/questions/2213/whats-the-difference-between-feed-forward-and-recurrent-neural-networks
-https://github.com/llSourcell/Convolutional_neural_network/blob/master/convolutional_network_tutorial.ipynb
+https://github.com/llSourcell/Convolutional_neural_network/blob/master/convolutional_network_tutorial.ipynb how a CNN works
 https://www.youtube.com/watch?v=FTr3n7uBIuE
-https://en.wikipedia.org/wiki/Recurrent_neural_network
-http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
+https://en.wikipedia.org/wiki/Recurrent_neural_network # recurrent NN
+http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/ recurrent NN
 https://www.youtube.com/watch?v=9zhrxE5PQgY
-https://www.quora.com/How-does-a-deconvolutional-neural-network-work
+https://www.quora.com/How-does-a-deconvolutional-neural-network-work see link name
 https://www.slideshare.net/nmhkahn/deconvnet-decouplednet-transfernet-in-image-segmentation
 https://quizlet.com/152146730/neural-network-zoo-flash-cards/
 https://towardsdatascience.com/the-8-neural-network-architectures-machine-learning-researchers-need-to-learn-11a0c96d6073
@@ -21,20 +21,28 @@ https://www.youtube.com/watch?v=-7scQpJT7uo
 http://www.neuronalesnetz.de/verbindungen.html
 https://www.quora.com/What-is-the-learning-rate-in-neural-networks nice example for learning rate
 https://stackoverflow.com/questions/34518656/how-to-interpret-loss-and-accuracy-for-a-machine-learning-model#34519264
-https://en.wikipedia.org/wiki/Overfitting
+https://en.wikipedia.org/wiki/Overfitting what is overfitting
 https://www.youtube.com/watch?v=OVHc-7GYRo4
-https://stackoverflow.com/questions/2480650/role-of-bias-in-neural-networks
-https://www.quora.com/What-is-bias-in-artificial-neural-network?share=1
-https://stats.stackexchange.com/questions/185911/why-are-bias-nodes-used-in-neural-networks
-https://stackoverflow.com/questions/3985619/how-to-calculate-a-logistic-sigmoid-function-in-python
+https://stackoverflow.com/questions/2480650/role-of-bias-in-neural-networks the bias
+https://www.quora.com/What-is-bias-in-artificial-neural-network?share=1 and againe
+https://stats.stackexchange.com/questions/185911/why-are-bias-nodes-used-in-neural-networks and againe
+https://stackoverflow.com/questions/3985619/how-to-calculate-a-logistic-sigmoid-function-in-python sigmoid function
 https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1
 https://page.mi.fu-berlin.de/rojas/neural/chapter/K4.pdf
 https://medium.com/technology-invention-and-more/everything-you-need-to-know-about-artificial-neural-networks-57fac18245a1 good starting point for Neuronal networks
 https://www.youtube.com/watch?v=ILsA4nyG7I0 # basic intro to deep neuronal networks and how they work with an example
-https://www.youtube.com/watch?v=IHZwWFHWa-w second part
+https://www.youtube.com/watch?v=IHZwWFHWa-w second part; backpropagation
 https://www.youtube.com/watch?v=Ilg3gGewQ5U third part
 https://www.youtube.com/watch?v=m0pIlLfpXWE nice video about activation functions
 https://www.youtube.com/watch?v=q555kfIFUCM backpropagation in 5 min.
 https://stats.stackexchange.com/questions/179026/objective-function-cost-function-loss-function-are-they-the-same-thing what is a loss function, a objectiv function and a cost function
+https://machinelearningmastery.com/generate-test-datasets-python-scikit-learn/ how to generate sample data with scikitlearn
+https://beckernick.github.io/neural-network-scratch/ used to get a general idea of a real network
+https://dzone.com/articles/the-very-basic-introduction-to-feed-forward-neural here as well
+https://en.wikipedia.org/wiki/Mean_squared_error mean_squarred_error
+http://python3.codes/neural-network-python-part-1-sigmoid-function-gradient-descent-backpropagation/ easy stuff to gradient descent, not as deep as needed but usefull for coding
+
+
 special tools:
 https://www.matheretter.de/tools/formeleditor/
+https://www.khanacademy.org/test-prep/fr-twelveth-grade-math/les-derivees/introduction-aux-derivees/v/calculus-derivatives-1 for deriviative
