@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Flajt\\Documents\\GitHub\\Deeplearning_for_starters\\Mnist_modells\\mnist.tfl"
+all_model_checkpoint_paths: "C:\\Users\\Flajt\\Documents\\GitHub\\Deeplearning_for_starters\\Mnist_modells\\mnist.tfl"

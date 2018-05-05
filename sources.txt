@@ -41,7 +41,9 @@ https://beckernick.github.io/neural-network-scratch/ used to get a general idea 
 https://dzone.com/articles/the-very-basic-introduction-to-feed-forward-neural here as well
 https://en.wikipedia.org/wiki/Mean_squared_error mean_squarred_error
 http://python3.codes/neural-network-python-part-1-sigmoid-function-gradient-descent-backpropagation/ easy stuff to gradient descent, not as deep as needed but usefull for coding
-
+https://stats.stackexchange.com/questions/181/how-to-choose-the-number-of-hidden-layers-and-nodes-in-a-feedforward-neural-netw how layers are setted up
+https://www.statworx.com/de/blog/wie-lernen-neuronale-netze/ basic information in german have to check it out againe
+https://analyticsindiamag.com/6-types-of-artificial-neural-networks-currently-being-used-in-todays-technology/ types of neural Networks and their usage; need checkout
 
 special tools:
 https://www.matheretter.de/tools/formeleditor/
