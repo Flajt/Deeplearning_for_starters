@@ -44,6 +44,7 @@ http://python3.codes/neural-network-python-part-1-sigmoid-function-gradient-desc
 https://stats.stackexchange.com/questions/181/how-to-choose-the-number-of-hidden-layers-and-nodes-in-a-feedforward-neural-netw how layers are setted up
 https://www.statworx.com/de/blog/wie-lernen-neuronale-netze/ basic information in german have to check it out againe
 https://analyticsindiamag.com/6-types-of-artificial-neural-networks-currently-being-used-in-todays-technology/ types of neural Networks and their usage; need checkout
+https://www.tensorflow.org/versions/master/tutorials/layers usefull for tensorflow and in general
 
 special tools:
 https://www.matheretter.de/tools/formeleditor/
