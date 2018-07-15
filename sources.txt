@@ -7,28 +7,28 @@ https://ccrma.stanford.edu/~eberdahl/Projects/Vokalerkennung/NN_Doku.pdf
 http://eis.mdx.ac.uk/staffpages/rvb/teaching/BIS3226/hand11.pdf nice paper cutting the pdf name away and there you can find more papers
 https://stats.stackexchange.com/questions/2213/whats-the-difference-between-feed-forward-and-recurrent-neural-networks
 https://github.com/llSourcell/Convolutional_neural_network/blob/master/convolutional_network_tutorial.ipynb how a CNN works
-https://www.youtube.com/watch?v=FTr3n7uBIuE
+https://www.youtube.com/watch?v=FTr3n7uBIuE CNNs coding exaple
 https://en.wikipedia.org/wiki/Recurrent_neural_network # recurrent NN
 http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/ recurrent NN
-https://www.youtube.com/watch?v=9zhrxE5PQgY
+https://www.youtube.com/watch?v=9zhrxE5PQgY LSTM network explained
 https://www.quora.com/How-does-a-deconvolutional-neural-network-work see link name
-https://www.slideshare.net/nmhkahn/deconvnet-decouplednet-transfernet-in-image-segmentation
+https://www.slideshare.net/nmhkahn/deconvnet-decouplednet-transfernet-in-image-segmentation Deconvolutional Network slide show
 https://quizlet.com/152146730/neural-network-zoo-flash-cards/
 https://towardsdatascience.com/the-8-neural-network-architectures-machine-learning-researchers-need-to-learn-11a0c96d6073
 https://medium.com/technology-nineleaps/vectors-in-machine-learning-b8dbdae53aa0
-https://www.youtube.com/watch?v=HHUqhVzctQE
-https://www.youtube.com/watch?v=-7scQpJT7uo
+https://www.youtube.com/watch?v=HHUqhVzctQE understanding vectors
+https://www.youtube.com/watch?v=-7scQpJT7uo  wich activation function to use
 http://www.neuronalesnetz.de/verbindungen.html
 https://www.quora.com/What-is-the-learning-rate-in-neural-networks nice example for learning rate
 https://stackoverflow.com/questions/34518656/how-to-interpret-loss-and-accuracy-for-a-machine-learning-model#34519264
 https://en.wikipedia.org/wiki/Overfitting what is overfitting
-https://www.youtube.com/watch?v=OVHc-7GYRo4
+https://www.youtube.com/watch?v=OVHc-7GYRo4 The perceptron
 https://stackoverflow.com/questions/2480650/role-of-bias-in-neural-networks the bias
 https://www.quora.com/What-is-bias-in-artificial-neural-network?share=1 and againe
 https://stats.stackexchange.com/questions/185911/why-are-bias-nodes-used-in-neural-networks and againe
 https://stackoverflow.com/questions/3985619/how-to-calculate-a-logistic-sigmoid-function-in-python sigmoid function
-https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1
-https://page.mi.fu-berlin.de/rojas/neural/chapter/K4.pdf
+https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1 simple ANN in python
+https://page.mi.fu-berlin.de/rojas/neural/chapter/K4.pdf research paper
 https://medium.com/technology-invention-and-more/everything-you-need-to-know-about-artificial-neural-networks-57fac18245a1 good starting point for Neuronal networks
 https://www.youtube.com/watch?v=ILsA4nyG7I0 # basic intro to deep neuronal networks and how they work with an example
 https://www.youtube.com/watch?v=IHZwWFHWa-w second part; backpropagation
@@ -45,7 +45,10 @@ https://stats.stackexchange.com/questions/181/how-to-choose-the-number-of-hidden
 https://www.statworx.com/de/blog/wie-lernen-neuronale-netze/ basic information in german have to check it out againe
 https://analyticsindiamag.com/6-types-of-artificial-neural-networks-currently-being-used-in-todays-technology/ types of neural Networks and their usage; need checkout
 https://www.tensorflow.org/versions/master/tutorials/layers usefull for tensorflow and in general
+https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/ very good guide for backpropagation with example
+https://www.youtube.com/watch?v=tIeHLnjs5U8  highly recommended!
+
 
 special tools:
-https://www.matheretter.de/tools/formeleditor/
+https://www.matheretter.de/tools/formeleditor/ here you can create math formulas
 https://www.khanacademy.org/test-prep/fr-twelveth-grade-math/les-derivees/introduction-aux-derivees/v/calculus-derivatives-1 for deriviative
