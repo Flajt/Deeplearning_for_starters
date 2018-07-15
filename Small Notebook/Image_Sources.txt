@@ -7,3 +7,4 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAvVBMVEX///
 https://i0.wp.com/s3.amazonaws.com/acadgildsite/wordpress_images/bigdatadeveloper/Devil+Is+in+the+Detail+Data+Science%2C+Artificial+Learning%2C+Machine+Learning%2C+and+Deep+Learning/9-img9.png?resize=461%2C290&ssl=1 (22.06.2018, 16:42)
 https://whatsthebigdata.files.wordpress.com/2017/05/ai_robotics_rise_pwc.png?w=640 (22.06.2018, 18:38)
 http://usblogs.pwc.com/emerging-technology/wp-content/uploads/2017/03/Rise-of-robotics-2-1.png (22.06.2018, 18:42)
+http://ataspinar.com/wp-content/uploads/2016/11/perceptron_schematic_overview.png (23.06.2018, 18:18)
